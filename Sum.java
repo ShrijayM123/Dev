@@ -16,6 +16,9 @@ public class Sum {
 		
 		int sum = a+b+c;
 		System.out.println("Sum="+sum);
+
+		int average = sum/3;
+		System.out.println("Avg="+average);
 	}
 
 }
